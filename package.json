@@ -1,0 +1,16 @@
+{
+  "name": "firefox-os-developerify",
+  "version": "1.0.0",
+  "description": "Enable super developer mode in a Firefox OS device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sole",
+  "license": "Apache 2",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "es6-promise": "^2.0.1",
+    "temp": "^0.8.1"
+  }
+}
